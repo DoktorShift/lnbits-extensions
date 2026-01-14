@@ -2129,6 +2129,7 @@
             "name": "Subscriptions Manager",
             "short_description": "Sell recurring subscriptions with Bitcoin and fiat payments",
             "icon": "/subscriptions_manager/static/images/Subscription_Manager_logo-removebg-preview.png",
+            "pay_link": "http://127.0.0.1:5005/paywall/api/v1/paywalls/invoice/CvWSHk9Bzi7dVidFXnrB3b",
             "details_link": "https://raw.githubusercontent.com/doktorshift/Subscriptions_Manager/main/config.json"
         }
     ]
