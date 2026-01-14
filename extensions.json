@@ -2121,7 +2121,7 @@
         },
         {
             "id": "subscriptions_manager",
-            "repo": "https://github.com/doktorshift/Subscriptions_Manager",
+            "repo": "https://github.com/doktorshift/subscriptions_manager",
             "version": "0.4.5",
             "archive": "https://github.com/lnbits/subscriptions_manager/archive/refs/tags/v0.4.5.zip",
             "hash": "68e822a3adb503dab499de11c481fdfe4a56155cf32fd46d1e3b717703152533",
@@ -2130,7 +2130,7 @@
             "short_description": "Sell recurring subscriptions with Bitcoin and fiat payments",
             "icon": "/subscriptions_manager/static/images/Subscription_Manager_logo-removebg-preview.png",
             "pay_link": "http://127.0.0.1:5005/paywall/api/v1/paywalls/invoice/CvWSHk9Bzi7dVidFXnrB3b",
-            "details_link": "https://raw.githubusercontent.com/doktorshift/Subscriptions_Manager/main/config.json"
+            "details_link": "https://raw.githubusercontent.com/doktorshift/subscriptions_manager/main/config.json"
         }
     ]
 }
