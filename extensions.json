@@ -2123,7 +2123,7 @@
             "id": "subscriptions_manager",
             "repo": "https://github.com/doktorshift/Subscriptions_Manager",
             "version": "0.4.5",
-            "archive": "",
+            "archive": "https://github.com/lnbits/subscriptions_manager/archive/refs/tags/v0.4.5.zip",
             "hash": "68e822a3adb503dab499de11c481fdfe4a56155cf32fd46d1e3b717703152533",
             "min_lnbits_version": "1.4.0",
             "name": "Subscriptions Manager",
